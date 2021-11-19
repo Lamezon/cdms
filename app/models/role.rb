@@ -4,3 +4,4 @@ class Role < ApplicationRecord
   validates :name, :identifier, presence: true
   validates :identifier, uniqueness: true
 end
+x
