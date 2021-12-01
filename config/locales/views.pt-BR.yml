@@ -7,6 +7,7 @@ pt-BR:
         home_page: Página Inicial
         audience_members: Membros de audiência
         documents: Certificados e declarações
+        roles: Funções
         departments: Departamentos
         users: Usuários
         administrators: Administradores
@@ -99,6 +100,16 @@ pt-BR:
       variables:
         name: Nome
         identifier: Identificador
+    document_role:
+      name:
+        singular: Função
+        plural:  Funções
+      links:
+        edit: Editar
+        new: Nova Função
+        show: Visualizar função
+        edit: Editar função
+        create: Criar Função
     department:
       name:
         singular: Departamento
